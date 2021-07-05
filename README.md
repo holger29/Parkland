@@ -1,5 +1,5 @@
 # Parkland
-Parkland es método que se utiliza en los pacientes que han sido afectados por quemaduras.
+Parkland es un método que se utiliza en los pacientes que han sido afectados por quemaduras.
 Para que la formula de Parkland se haga efectiva el peso
 del paciente debe ser mayor a 40 kg y el grado de
 quemadura debe ser mayor a 20% de lo contrario el
