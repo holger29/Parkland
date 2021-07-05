@@ -10,7 +10,8 @@ para las 24 horas en un paciente que presenta
 quemaduras a fin de garantizar que permanezca
 hemodinamicamente estable.
 La formula es la siguiente: supongamos que un paciente presenta quemaduras de un 20% en su cuerpo 
-y el peso de este paciente es de 75 kg. aparte de esto Siempre vamos a tener una constante que es 4.
+y el peso de este paciente es de 75 kg. aparte de esto Siempre vamos a tener una variable
+constante que es 4. la formula matematica es la siguiente:
 20 * 75= 1500
 1500 / 4 = 375
 En este caso se le debe suministrar 375 mililitros de solución salina al paciente durante las 24//h
